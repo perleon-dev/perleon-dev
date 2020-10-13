@@ -10,7 +10,7 @@ About me:
 - 🛰 2020 Goals: Terminar mi proyecto personal.
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
 - ⚡ 
-- 📫 Contactame: https://www.linkedin.com/in/percy-luis-leon-lucas/
+- 📫 Contactame: [Linkedin](https://www.linkedin.com/in/percy-luis-leon-lucas/)
 
 
 #### Languages and Frameworks:
