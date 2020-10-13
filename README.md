@@ -18,7 +18,10 @@ About me:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-green)
+![netCore](https://img.shields.io/badge/-.Net%20Core-blue)
 
 #### Tools:
 
