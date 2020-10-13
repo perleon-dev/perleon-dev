@@ -1,6 +1,6 @@
 ### Console.WriteLine("Hello world 👋");
 
-Hola, mi nombre es Percy Leon soy .NET Developer. Actualmente resido en Lima Perú
+Hola, mi nombre es **Percy Leon** soy **.NET Developer**. Actualmente resido en Lima Perú
 
 About me:
 
