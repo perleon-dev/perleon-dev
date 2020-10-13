@@ -30,6 +30,7 @@ About me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%202019-blue)
 
 #### Deployment
 
