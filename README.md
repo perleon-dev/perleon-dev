@@ -7,7 +7,7 @@ About me:
 - 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
 - 🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Xamarin Forms💚
 - 💬 Me mantengo en constante aprendizaje.
-- 🛰 2020 Goals: Consolidar conocimientos.Ademas de avanzar con mis proyectos personales [Cullqui](https://cullqui.com)
+- 🛰 2020 Goals: Consolidar conocimientos. Ademas de avanzar con mis proyectos personales [Cullqui](https://cullqui.com)
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
 - ⚡ 
 - 📫 Contactame: [Linkedin](https://www.linkedin.com/in/percy-luis-leon-lucas/)
