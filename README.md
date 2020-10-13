@@ -1,16 +1,13 @@
-### Hi there 👋
+### Console.WriteLine("Hello world 👋");
 
-<!--
-**PercyLeon123/PercyLeon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, mi nombre es Percy Leon soy .NET Developer. Actualmente resido en Lima Perú
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
+- 🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Xamarin Forms💚
+- 💬 Me mantengo en constante aprendizaje.
+- 🛰 2020 Goals: Terminar mi proyecto personal.
+- 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
+- ⚡ 
+- 📫 Contactame: https://www.linkedin.com/in/percy-luis-leon-lucas/
