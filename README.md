@@ -23,6 +23,7 @@ About me:
 ![PHP](https://img.shields.io/badge/-PHP-green)
 ![netCore](https://img.shields.io/badge/-.Net%20Core-blue)
 ![xamarin](https://img.shields.io/badge/-Xamarin%20Forms-yellowgreen)
+![Angular](https://img.shields.io/badge/-Angular-red)
 
 #### Tools:
 
