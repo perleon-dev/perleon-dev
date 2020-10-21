@@ -22,7 +22,7 @@ About me:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-green?logo=php&logoColor=blue)
 ![netCore](https://img.shields.io/badge/-.Net%20Core-blue?logo=net-core)
-![xamarin](https://img.shields.io/badge/-Xamarin%20Forms-yellowgreen?logo=xamarin)
+![xamarin](https://img.shields.io/badge/-Xamarin%20Forms-green?logo=xamarin)
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
 
 #### Tools:
