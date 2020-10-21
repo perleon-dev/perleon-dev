@@ -20,7 +20,7 @@ About me:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PHP](https://img.shields.io/badge/-PHP-green?logo=php)
+![PHP](https://img.shields.io/badge/-PHP-green?logo=php&logoColor=blue)
 ![netCore](https://img.shields.io/badge/-.Net%20Core-blue)
 ![xamarin](https://img.shields.io/badge/-Xamarin%20Forms-yellowgreen)
 ![Angular](https://img.shields.io/badge/-Angular-red)
