@@ -21,7 +21,7 @@ About me:
 ![Blazor](https://img.shields.io/badge/-Blazor-blue?logo=wasm)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-green?logo=php&logoColor=white)
-![netCore](https://img.shields.io/badge/-.Net%20Core-blue?logo=c#)
+![netCore](https://img.shields.io/badge/-.Net%20Core-blue?logo=c-sharp)
 ![xamarin](https://img.shields.io/badge/-Xamarin%20Forms-green?logo=xamarin&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
 
