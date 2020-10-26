@@ -36,7 +36,7 @@ About me:
 #### Deployment
 
 ![GitHub](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
-![Azure](https://img.shields.io/badge/-Azure-blue?logo=azure)
+![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure)
 
 #### OS
 
