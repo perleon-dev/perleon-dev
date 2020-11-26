@@ -38,7 +38,7 @@ About me:
 ![GitHub](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoft-azure&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker?style=flat-square&logo=docker&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-flat-square?logo=docker&logoColor=white)
 #### OS
 
 ![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
