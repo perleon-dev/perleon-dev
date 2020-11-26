@@ -7,9 +7,9 @@ About me:
 - 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
 - 🌱 Actualmente estoy aprendiendo Blazor WebAssembly, Xamarin Forms y Microsoft Azure💚
 - 💬 Me mantengo en constante aprendizaje.
-- 🛰 2020 Goals: Consolidar conocimientos. Ademas, concluir proyectos personales. Un ejemplo es [Cullqui](https://cullqui.com)
-- 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
-- ⚡ 
+- 🛰 2020 Goals: Consolidar conocimientos. Ademas, concluir proyectos personales. Un ejemplo es [CULLQUI](https://cullqui.com)
+- 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!
+- ⚡  Me encanta poder compartir un poco de lo que voy aprendiendo en el día a día.
 - 📫 Contactame: [Linkedin](https://www.linkedin.com/in/percy-luis-leon-lucas/)
 
 
@@ -37,6 +37,7 @@ About me:
 
 ![GitHub](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoft-azure&logoColor=white)
+![Docker](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=docker&logoColor=ffffff)
 
 #### OS
 
