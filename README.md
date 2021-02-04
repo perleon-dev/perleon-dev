@@ -5,7 +5,7 @@ Hola, mi nombre es **Percy Leon** soy **.NET Developer**. Actualmente resido en 
 About me:
 
 - 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo Blazor WebAssembly, Xamarin Forms y Microsoft Azure💚
+- 🌱 Actualmente estoy aprendiendo Docker, Xamarin Forms y Microsoft Azure💚
 - 💬 Me mantengo en constante aprendizaje.
 - 🛰 2020 Goals: Consolidar conocimientos. Ademas, concluir proyectos personales. Un ejemplo es [CULLQUI](https://cullqui.com)
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!
