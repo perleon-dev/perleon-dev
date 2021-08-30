@@ -43,4 +43,4 @@ About me:
 #### OS
 
 ![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
-![CLI](http://img.shields.io/badge?style=flat-square&logo=linux&logoColor=ffffff)
+![CLI](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=linux)
