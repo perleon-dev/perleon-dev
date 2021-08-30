@@ -1,13 +1,13 @@
-### Console.WriteLine("Hello world 👋"); <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="90" align="right"/>
+### Hello world 👋 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="90" align="right"/>
 
 Hola, mi nombre es **Percy Leon** soy **.NET Developer**. Actualmente resido en Lima Perú
 
 About me:
 
 - 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo Docker, Xamarin Forms y Microsoft Azure💚
+- 🌱 Actualmente estoy aprendiendo Docker, Microsoft Azure, AWS y Python💚
 - 💬 Me mantengo en constante aprendizaje.
-- 🛰 2020 Goals: Consolidar conocimientos. Ademas, concluir proyectos personales. Un ejemplo es [CULLQUI](https://cullqui.com)
+- 🛰 2021 Goals: Consolidar conocimientos. Ademas, concluir proyectos personales.
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!
 - ⚡  Me encanta poder compartir un poco de lo que voy aprendiendo en el día a día.
 - 📫 Contactame: [Linkedin](https://www.linkedin.com/in/percy-luis-leon-lucas/)
